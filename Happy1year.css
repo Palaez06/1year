@@ -1,0 +1,63 @@
+body{
+    background-color:  rgb(0, 0, 0);
+}
+#greeting{
+    font-size:3em;
+    text-align:center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#description{
+    font-size: 1em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#hi{
+    color: rgba(245, 245, 245, 0.781);
+}
+#h1{
+    color: rgba(245, 245, 245, 0.781);
+}
+#h2{
+    color: rgba(245, 245, 245, 0.781);
+}
+#h3{
+    color: rgba(245, 245, 245, 0.781);
+}
+#p1{
+    color: rgba(245, 245, 245, 0.781);
+}
+#p2{
+    color: rgba(245, 245, 245, 0.781);
+}
+#p3{
+    color: rgba(245, 245, 245, 0.781);
+}
+#p4{
+    color: rgba(245, 245, 245, 0.781);
+}
+#p5{
+    color: rgba(245, 245, 245, 0.781);
+}
+#p6{
+    color: rgba(245, 245, 245, 0.781);
+}
+#h4{
+    font-size: 1em;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgba(245, 245, 245, 0.781);
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    height: 70px;
+}
+#next{
+    font-size: 2em;
+    border-radius: 4px;
+    margin-bottom: 15px;
+    border-color: rgba(173, 173, 173, 0.781);
+    font-family: 'Times New Roman', Times, serif;
+    display: none;
+}
